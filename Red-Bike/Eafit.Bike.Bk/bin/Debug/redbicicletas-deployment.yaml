@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment #Create application
+metadata:
+  name: redbicicleta-v1
+  labels:
+    app: redbicicleta
+    version: "1.0"
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: redbicicleta
+  template:
+    metadata:
+      labels:
+        app: redbicicleta
+        version: "1.0"
+    spec:
+      containers:
+        - name: redbicicleta
+          image: ibmcom/redbicicleta:v1
+          ports:
+            - name: http-server
+              containerPort: 3000

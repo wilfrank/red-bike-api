@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ContextDb\CosmosDbRepository.cs" />
+    <Compile Remove="Data\CosmosDbClient.cs" />
+    <Compile Remove="Data\CosmosDbClientFactory.cs" />
+    <Compile Remove="Data\ICosmosDbClient.cs" />
+    <Compile Remove="Data\ICosmosDbClientFactory.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Cloud.Firestore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.30.1" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB.core" Version="2.18.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eafit.Bike.Model\Eafit.Bike.Model.csproj" />
+  </ItemGroup>
+
+</Project>

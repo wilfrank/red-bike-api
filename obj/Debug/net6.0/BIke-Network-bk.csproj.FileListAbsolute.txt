@@ -1,0 +1,13 @@
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.csproj.AssemblyReference.cache
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.AssemblyInfoInputs.cache
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.AssemblyInfo.cs
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.csproj.CoreCompileInputs.cache
+D:\Eafit\Especializacion\Arq_Avanz_Software\BIke-Network-bk\obj\Debug\net6.0\BIke-Network-bk.MvcApplicationPartsAssemblyInfo.cache
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.csproj.AssemblyReference.cache
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.AssemblyInfoInputs.cache
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.AssemblyInfo.cs
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.csproj.CoreCompileInputs.cache
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.MvcApplicationPartsAssemblyInfo.cs
+D:\Eafit\Especializacion\Int_Entrega_Continua\Repository\red-bike-api\obj\Debug\net6.0\BIke-Network-bk.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {}
+  },
+  "projects": {
+    "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
+        "projectName": "BIke-Network-bk",
+        "projectPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
+        "packagesPath": "C:\\Users\\wilfrank.montalvop\\.nuget\\packages\\",
+        "outputPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\BIke-Network-bk\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilfrank.montalvop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.vmaxlive.net/repository/nuget-group/": {},
+          "https://nexus.vmaxlive.net/repository/nuget-hosted/": {},
+          "https://nuget.pkg.github.com/safe-fleet/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
+                "projectPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj"
+              },
+              "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {
+                "projectPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
+        "projectName": "Eafit.Bike.Repository",
+        "projectPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
+        "packagesPath": "C:\\Users\\wilfrank.montalvop\\.nuget\\packages\\",
+        "outputPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilfrank.montalvop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.vmaxlive.net/repository/nuget-group/": {},
+          "https://nexus.vmaxlive.net/repository/nuget-hosted/": {},
+          "https://nuget.pkg.github.com/safe-fleet/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
+                "projectPath": "D:\\Eafit\\Especializacion\\Arq_Avanz_Software\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.30.1, )"
+            },
+            "Microsoft.Azure.DocumentDB.core": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

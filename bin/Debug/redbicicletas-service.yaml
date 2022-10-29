@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: redbicicleta
+  labels:
+    app: redbicicleta
+spec:
+  ports:
+  - port: 3000
+    targetPort: http-server
+  selector:
+    app: redbicicleta
+  type: LoadBalancer
